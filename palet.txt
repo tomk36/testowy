@@ -1,5 +1,8 @@
-PAL.,UNI601,10770016,,,,,,,,
+﻿PAL.,UNI601,10770016,,,,,,,,
 Nr.,Item-,Reference-,Type-,Location-,Manufacturer-,Kind-,,,,
+
+
+xxxx
 1,-QS1B4,/1.4B,P1-32/V/SVB,Q,MOELLER,QS,wy��cznik g��wny krzywkowy,,,
 2,-FU1B7,/1.7B,10.3x38 5400125,Q,VIMEX,FU,bezpiecznik miniaturowy,,,
 3,-FU1B7,/1.7B,5450104,S,Q,WIMEX,FU,obudowa bezpiecznik�w topikowych,,
